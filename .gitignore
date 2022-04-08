@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+# Goland
+*.idea
