@@ -8,3 +8,7 @@ cherry_pick_pull.sh
 Clean up now!
 <br />
 Checkout master | pull | push
+<br />
+git checkout release-v1.26
+git cherry-pick <master-PR-commit-hash>
+git push
